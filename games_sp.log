@@ -1,0 +1,27 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/SoloShangriMoon\g_antilag\1\g_gameskill\1\g_gametype\cmp\mapname\frontend\protocol\3141\shortversion\7\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_cheats\1\sv_disableClientConsole\0\sv_floodProtect\1\sv_HostBandwidthMinimumPerPlayer\65536\sv_hostname\BlackOpsZombie\sv_maxClients\4\sv_maxPing\0\sv_maxRate\7000\sv_minPing\0\sv_netcull_animcmdsize_threshold\2000\sv_netcull_msgsize_threshold\3000\sv_privateClients\0\sv_punkbuster\0\sv_pure\0\sv_saveDeviceAvailable\1\sv_saveGameAvailable\0\sv_saveGameNotReadable\0\sv_saveOnStartMap\1\sv_useAnimCulling\0\sv_voice\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:08 ShutdownGame:
+  0:08 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/SoloShangriMoon\g_antilag\1\g_gameskill\1\g_gametype\cmp\mapname\zombie_moon\protocol\3141\shortversion\7\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_cheats\1\sv_disableClientConsole\0\sv_floodProtect\1\sv_HostBandwidthMinimumPerPlayer\65536\sv_hostname\BlackOpsZombie\sv_maxClients\4\sv_maxPing\0\sv_maxRate\7000\sv_minPing\0\sv_netcull_animcmdsize_threshold\2000\sv_netcull_msgsize_threshold\3000\sv_privateClients\0\sv_punkbuster\0\sv_pure\0\sv_saveDeviceAvailable\1\sv_saveGameAvailable\0\sv_saveGameNotReadable\0\sv_saveOnStartMap\1\sv_useAnimCulling\0\sv_voice\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+107:33 ShutdownGame:
+107:33 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/SoloShangriMoon\g_antilag\1\g_gameskill\1\g_gametype\cmp\mapname\frontend\protocol\3141\shortversion\7\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_cheats\1\sv_disableClientConsole\0\sv_floodProtect\1\sv_HostBandwidthMinimumPerPlayer\65536\sv_hostname\BlackOpsZombie\sv_maxClients\4\sv_maxPing\0\sv_maxRate\7000\sv_minPing\0\sv_netcull_animcmdsize_threshold\2000\sv_netcull_msgsize_threshold\3000\sv_privateClients\0\sv_punkbuster\0\sv_pure\0\sv_saveDeviceAvailable\1\sv_saveGameAvailable\0\sv_saveGameNotReadable\0\sv_saveOnStartMap\1\sv_useAnimCulling\0\sv_voice\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:05 ShutdownGame:
+  0:05 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/SoloShangriMoon\g_antilag\1\g_gameskill\1\g_gametype\cmp\mapname\frontend\protocol\3141\shortversion\7\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_cheats\1\sv_disableClientConsole\0\sv_floodProtect\1\sv_HostBandwidthMinimumPerPlayer\65536\sv_hostname\BlackOpsZombie\sv_maxClients\4\sv_maxPing\0\sv_maxRate\7000\sv_minPing\0\sv_netcull_animcmdsize_threshold\2000\sv_netcull_msgsize_threshold\3000\sv_privateClients\0\sv_punkbuster\0\sv_pure\0\sv_saveDeviceAvailable\1\sv_saveGameAvailable\0\sv_saveGameNotReadable\0\sv_saveOnStartMap\1\sv_useAnimCulling\0\sv_voice\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:16 ShutdownGame:
+  0:16 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/SoloShangriMoon\g_antilag\1\g_gameskill\1\g_gametype\cmp\mapname\zombie_temple\protocol\3141\shortversion\7\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_cheats\1\sv_disableClientConsole\0\sv_floodProtect\1\sv_HostBandwidthMinimumPerPlayer\65536\sv_hostname\BlackOpsZombie\sv_maxClients\4\sv_maxPing\0\sv_maxRate\7000\sv_minPing\0\sv_netcull_animcmdsize_threshold\2000\sv_netcull_msgsize_threshold\3000\sv_privateClients\0\sv_punkbuster\0\sv_pure\0\sv_saveDeviceAvailable\1\sv_saveGameAvailable\0\sv_saveGameNotReadable\0\sv_saveOnStartMap\1\sv_useAnimCulling\0\sv_voice\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:28 Weapon;1333034;0;Atlasdxs;knife_ballistic_bowie_upgraded_zm
+ 10:40 Weapon;1333034;0;Atlasdxs;shrink_ray_upgraded_zm
+ 10:45 Weapon;1333034;0;Atlasdxs;knife_ballistic_bowie_upgraded_zm
+ 31:43 ShutdownGame:
+ 31:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\4\fs_game\mods/SoloShangriMoon\g_antilag\1\g_gameskill\1\g_gametype\cmp\mapname\frontend\protocol\3141\shortversion\7\sv_allowAimAssist\1\sv_allowAnonymous\0\sv_cheats\1\sv_disableClientConsole\0\sv_floodProtect\1\sv_HostBandwidthMinimumPerPlayer\65536\sv_hostname\BlackOpsZombie\sv_maxClients\4\sv_maxPing\0\sv_maxRate\7000\sv_minPing\0\sv_netcull_animcmdsize_threshold\2000\sv_netcull_msgsize_threshold\3000\sv_privateClients\0\sv_punkbuster\0\sv_pure\0\sv_saveDeviceAvailable\1\sv_saveGameAvailable\0\sv_saveGameNotReadable\0\sv_saveOnStartMap\1\sv_useAnimCulling\0\sv_voice\1\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:06 ShutdownGame:
+  0:06 ------------------------------------------------------------
